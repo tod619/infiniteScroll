@@ -16,3 +16,21 @@ body {
     margin: 0;
     padding-bottom: 100px;
 }
+
+/* Heading 1 */
+h1 {
+    margin-bottom: 0;
+    text-align: center;
+}
+
+/* Filter Container */
+.filter-container {
+    margin-top: 20px;
+    width: 80vw;
+    max-width: 800px;
+}
+
+.filter {
+    width: 100%;
+    padding: 12px;
+}
